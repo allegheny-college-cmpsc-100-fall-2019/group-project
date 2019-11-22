@@ -28,6 +28,10 @@ Presentations must:
 | 6 December | 11:00 AM       | TeamNAme2           |
 | 6 December | 11:20 AM       | Macrohard           |
 
+## Required deliverables
+
+All presentations and related materials should be uploaded to the `presentations` directory of your repository as `PDF` files.
+
 ## Note about presentation
 
 Please be aware that we will have visitors during this time; these visitors may be other students or professors interested in your projects and your approaches/methods. This means that presentations will have some dimension of formality, though I encourage groups to assert their "corporate" personalities in whatever ways are appropriate to your individual group personas and project category.
